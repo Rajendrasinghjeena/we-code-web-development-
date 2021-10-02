@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color: grey;
+}
+.logo{
+    text-align: center;
+    justify-content: center;
+}
